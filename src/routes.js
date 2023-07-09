@@ -13,25 +13,25 @@ const routers = createRouter({
   routes: [
     {
       // path: "/examples/clash-of-clans",
-      path: "/",
+      path: "/resume/clash-of-clans/",
       name: "home",
       component: HomePage,
     },
     {
       // path: "/examples/clash-of-clans/about",
-      path: "/about",
+      path: "/resume/clash-of-clans/about",
       name: "about",
       component: AboutPage,
     },
     {
       // path: "/examples/clash-of-clans/404",
-      path: "/404",
+      path: "/resume/clash-of-clans/404",
       name: "404",
       component: Page404,
     },
     {
       // path: "/examples/clash-of-clans/:itemAlias",
-      path: "/:itemAlias",
+      path: "/resume/clash-of-clans/:itemAlias",
       name: "itemAlias",
       component: Item,
     },

@@ -5,7 +5,7 @@
         :name="`${item.lvl} lvl`"
         :title="item.title"
         :imgUrl="item.img"
-        :link="`/${item.alias}`"
+        :link="`/resume/clash-of-clans/${item.alias}`"
       >
         <template v-slot:body>{{ item.descr }}</template>
         <template v-slot:footer>

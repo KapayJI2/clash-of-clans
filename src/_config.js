@@ -5,12 +5,12 @@ export const links = [
   {
     title: "Home",
     alias: "home",
-    url: "/",
+    url: "/resume/clash-of-clans/",
   },
   {
     title: "About",
     alias: "about",
-    url: "/about",
+    url: "/resume/clash-of-clans/about",
   },
 ];
 export const aboutInfo = [

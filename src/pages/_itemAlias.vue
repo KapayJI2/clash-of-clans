@@ -11,7 +11,7 @@
         </div>
       </div>
       <div>
-        <router-link to="/" class="btn btnPrimary">Back to home</router-link>
+        <router-link to="/resume/clash-of-clans/" class="btn btnPrimary">Back to home</router-link>
       </div>
     </div>
   </div>
